@@ -1,0 +1,10 @@
+body{
+    background:linear-gradient(red,pink,purple,blue,rgb(0, 247, 247));
+}
+.heading{
+    font-size: 23px;
+    width: 80%;
+}
+.bold,#result_object,#result_accuracy,p{
+    color: aquamarine;
+}
